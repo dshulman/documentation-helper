@@ -19,10 +19,10 @@ streamlit = "*"
 streamlit-chat = "*"
 tqdm = "*"
 langchain-pinecone = "*"
-langchain-openai = "*"
 langchain-community = "*"
 isort = "*"
 langchainhub = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
