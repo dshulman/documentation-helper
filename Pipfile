@@ -23,11 +23,12 @@ langchain-community = "*"
 langsmith = "*"
 pinecone = "*"
 pillow = "*"
+langchain-openai = "*"
+langchain-pinecone = "*"
 
 [dev-packages]
 
 [requires]
-
 
 [pipenv]
 allow_prereleases = true
