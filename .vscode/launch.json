@@ -14,7 +14,8 @@
                 "run",
                 "main.py"
             ],
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
